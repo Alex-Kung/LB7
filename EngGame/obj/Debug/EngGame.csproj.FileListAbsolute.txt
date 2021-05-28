@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\LB6\EngGame\EngGame\obj\Debug\EngGame.csprojAssemblyReference.cache
+C:\Users\User\Desktop\LB6\EngGame\EngGame\obj\Debug\EngGame.Form1.resources
+C:\Users\User\Desktop\LB6\EngGame\EngGame\obj\Debug\EngGame.Properties.Resources.resources
+C:\Users\User\Desktop\LB6\EngGame\EngGame\obj\Debug\EngGame.csproj.GenerateResource.cache
+C:\Users\User\Desktop\LB6\EngGame\EngGame\obj\Debug\EngGame.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LB6\EngGame\EngGame\bin\Debug\EngGame.exe.config
+C:\Users\User\Desktop\LB6\EngGame\EngGame\bin\Debug\EngGame.exe
+C:\Users\User\Desktop\LB6\EngGame\EngGame\bin\Debug\EngGame.pdb
+C:\Users\User\Desktop\LB6\EngGame\EngGame\obj\Debug\EngGame.exe
+C:\Users\User\Desktop\LB6\EngGame\EngGame\obj\Debug\EngGame.pdb
